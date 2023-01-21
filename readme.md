@@ -2,7 +2,10 @@
 
 Creating forms for international audiences can be challenging, as telephone numbers can vary greatly in format and length depending on the country. To ensure that users are able to enter their telephone numbers correctly and that the form can process and validate the numbers properly, it’s important to use an “int-tel-input” field.
 
-One library that can be used for this purpose is the International Phone Number Form Validation library, which is available on GitHub at https://github.com/codewithkim1/International-Phone-Number-Form-Vlidation. 
+One library that can be used for this purpose is the International Phone Number Form Validation library, which is available on GitHub at:
+
+ https://github.com/codewithkim1/International-Phone-Number-Form-Vlidation. 
+
 To use this library, you can clone it to your local machine using the following command in the terminal:
 
 ```bash
